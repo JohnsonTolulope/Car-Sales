@@ -17,4 +17,9 @@ This will help in descion making on type of cars to be purchased for sales, and 
 
 
 
-![samples](https://github.com/JohnsonTolulope/Car-Sales/blob/main/COMPANY%20MODEL%20SALES.PNG)
+![samples](https://github.com/JohnsonTolulope/Car-Sales/blob/main/TOP%2010%20DEALERS.PNG)
+
+
+
+- sales Made
+![samples](https://github.com/JohnsonTolulope/Car-Sales/blob/main/TOP%2010%20DEALERS.PNG)
