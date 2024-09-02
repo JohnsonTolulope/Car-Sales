@@ -11,15 +11,16 @@ KPI's
 This will help in descion making on type of cars to be purchased for sales, and Dealers to work more effectively with.
 ![samples](https://github.com/JohnsonTolulope/Car-Sales/blob/main/COMPANY%20MODEL%20SALES.PNG)
 
+**Dealers by Sales of vehicles**
 
 ![samples](https://github.com/JohnsonTolulope/Car-Sales/blob/main/TOP%2010%20DEALERS%20BY%20SALES.PNG)
 
 
-
+**Dealers by count of vehicles**
 
 ![samples](https://github.com/JohnsonTolulope/Car-Sales/blob/main/TOP%2010%20DEALERS.PNG)
 
 
+**Sales Made**
 
-- sales Made
-![samples](https://github.com/JohnsonTolulope/Car-Sales/blob/main/TOP%2010%20DEALERS.PNG)
+![samples](https://github.com/JohnsonTolulope/Car-Sales/blob/main/Sales%20information.PNG)
